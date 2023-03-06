@@ -1,16 +1,19 @@
-### Hi you !
-I'm Fayad, a full time dev student, discord and web apps developer specialized in:
+## Hi you !
 
-- `JavaScript`
-- `Java`
-- `Python`
-- `HTML`
-- `CSS`
-- `SQL`
+My name is Fayad, I'm a french dev student, web apps & discord developer specialized:
+    
+  - `JavaScript`
+  - `Java`
+  - `Python`
+  - `PHP`
+  - `SQL`
+  - `HTML`
+  - `CSS`
 
-- As developing environment <em>(IDEs)</em> I generally use:
+As developing environment <em>(IDEs)</em> I generally use:
 
 - [Visual Studio Code](https://code.visualstudio.com/)
+- [Adobe Dreamweaver](https://www.adobe.com/fr/products/dreamweaver.html)
 - [Visual Studio](https://visualstudio.microsoft.com/fr/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 
