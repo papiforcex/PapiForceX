@@ -3,18 +3,18 @@
 My name is Fayad, I'm a french computer science student as well as a private pilot student and dev student specialized into into Web Development.
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,java,cs,python,php,r,mysql,postgres,sqlite&perline=8)](https://papiforcex.com)
 
-## Dev Integrations
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,cypress,django,dotnet,electron,express,flask,flutter,jquery,laravel,maven,nodejs,npm,supabase,svelte,symfony&perline=8)](https://papiforcex.com)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,java,cs,python,php,dart,r,md,mysql,postgres,sqlite&perline=8)](https://papiforcex.com)
 
-As developing environment <em>(IDEs)</em> and code editors I generally use:
+## Dev Platforms
 
-- [Visual Studio](https://visualstudio.microsoft.com/fr/)
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Adobe Dreamweaver](https://www.adobe.com/fr/products/dreamweaver.html)
-- [IntelliJ IDEA](https://www.jetbrains.com/idea/)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,cypress,django,dotnet,electron,express,flask,flutter,jquery,laravel,maven,nodejs,npm,supabase,mongodb,svelte,symfony&perline=8)](https://papiforcex.com)
 
+## Dev Environment *(IDEs)* & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=bitbucket,docker,git,github,gitlab,eclipse,idea,phpstorm,sublime,visualstudio,vscode,webstorm&perline=8)](https://papiforcex.com)
+
+## Others
 
 I'm also specialized in design and frontend generally speaking and I'm generally used to create customs designs or animations using:
 
