@@ -1,15 +1,12 @@
-## Hi you !
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=200&size=30&pause=1000&color=FF5F00&width=800&lines=This+is+Papi+Force+X+(aka+Fayad)+!)](https://git.io/typing-svg)
 
-My name is Fayad, I'm a french private pilot student and dev student specialized into manipulating:
-    
-  - `JavaScript`
-  - `C#`
-  - `Java`
-  - `Python`
-  - `PHP`
-  - `SQL`
-  - `HTML`
-  - `CSS`
+My name is Fayad, I'm a french computer science student as well as a private pilot student and dev student specialized into into Web Development.
+
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,java,cs,python,php,r,mysql,postgres,sqlite&perline=8)](https://papiforcex.com)
+
+## Dev Integrations
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,cypress,django,dotnet,electron,express,flask,flutter,jquery,laravel,maven,nodejs,npm,supabase,svelte,symfony&perline=8)](https://papiforcex.com)
 
 As developing environment <em>(IDEs)</em> and code editors I generally use:
 
