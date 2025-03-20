@@ -8,11 +8,11 @@ My name is Fayad, I'm a french computer science student as well as a private pil
 
 ## Dev Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,cypress,django,dotnet,electron,express,flask,flutter,jquery,laravel,maven,nodejs,npm,supabase,mongodb,svelte,symfony&perline=8)](https://papiforcex.com)
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,cypress,django,dotnet,electron,express,flask,flutter,jquery,laravel,maven,nodejs,npm,supabase,mongodb,vue,svelte,symfony&perline=8)](https://papiforcex.com)
 
 ## Dev Environment *(IDEs)* & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=bitbucket,docker,git,github,gitlab,eclipse,idea,phpstorm,sublime,visualstudio,vscode,webstorm&perline=8)](https://papiforcex.com)
+[![My Skills](https://skillicons.dev/icons?i=bitbucket,docker,git,github,gitlab,eclipse,idea,phpstorm,webstorm,sublime,visualstudio,vscode&perline=8)](https://papiforcex.com)
 
 ## Others
 
